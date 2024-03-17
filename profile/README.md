@@ -1,1 +1,1 @@
-# MenuMate
+# ScanEat
